@@ -1,10 +1,17 @@
 <div align="center">
 
-# 💫 Hi 👋, I'm Saroj Kumar Panda
+<!-- Profile Avatar / Logo -->
+<img src="https://github.com/saroj3212.png" width="200" alt="Profile Logo" style="border-radius: 50%; border: 2px solid #0077B5;" />
 
-### 🤖 AI/ML Engineer | Python Developer | CSE Student
+# Hey, I'm Saroj 👋
 
-**Exploring Machine Learning, Deep Learning & NLP | Building Intelligent Applications** 🚀
+---
+
+**AI/ML Engineer • Deep Learning & NLP • Python Developer • CSE Student**
+
+I build **intelligent applications** and scalable machine learning models — one project at a time.
+
+<br/>
 
 <p>
   <a href="https://linkedin.com/in/code-soroj">
@@ -43,7 +50,6 @@
 | 🤖 **Personal AI Assistant** | 🌐 **Alumni Association Platform** |
 |:---|:---|
 | A voice-driven task automation tool built with Python. Utilizes NLP (TF-IDF, Logistic Regression) for intent classification and integrates SpeechRecognition for spoken commands. | A full-stack networking platform (React, Node.js, Express, MongoDB) designed to connect students with alumni for career guidance, featuring secure JWT authentication. |
-| [View Repository](https://github.com/saroj3212) *(Add exact link here)* | [View Repository](https://github.com/saroj3212) *(Add exact link here)* |
 
 ---
 
@@ -115,12 +121,10 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saroj3212/saroj3212/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saroj3212/saroj3212/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saroj3212/saroj3212/output/github-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saroj3212/saroj3212/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saroj3212/saroj3212/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/saroj3212/saroj3212/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
-  <br/>
-  <em>If the snake doesn't load immediately, you may need to run the GitHub Actions workflow in your repository first!</em>
 </div>
 
 <br/>
