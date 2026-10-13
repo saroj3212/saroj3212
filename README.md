@@ -9,7 +9,7 @@
 
 **AI/ML Engineer • Deep Learning & NLP • Python Developer • CSE Student**
 
-I build **intelligent applications** and scalable machine learning models — one project at a time.
+I build **intelligent applications** and scalable machine learning models .
 
 <br/>
 
