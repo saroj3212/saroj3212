@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Profile Avatar / Logo -->
-<img src="https://github.com/saroj3212.png" width="200" alt="Profile Logo" style="border-radius: 50%; border: 2px solid #0077B5;" />
+<img src="https://static.vecteezy.com/system/resources/thumbnails/019/564/863/small_2x/businessman-hand-touch-with-code-html-and-programming-on-screen-laptop-programmer-development-computer-code-web-design-coding-technology-in-software-digital-software-technology-development-iot-photo.jpg" width="200" alt="Profile Logo" style="border-radius: 50%; border: 2px solid #0077B5;" />
 
 # Hey, I'm Saroj 👋
 
